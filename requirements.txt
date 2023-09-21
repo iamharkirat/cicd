@@ -1,8 +1,9 @@
 pandas
-sys
+os-sys
 numpy
 seaborn
 matplotlib
 scikit-learn
 dill
+pickle5
 # -e .
